@@ -1,6 +1,7 @@
 # Google Ads Dashboard Analysis – Performance Max Campaign
 
 ## Campaign Overview
+**Business Category:** Emergency Towing and Roadside Help Calls  
 - **Campaign Type:** Performance Max  
 - **Duration:** 3 months  
 - **Goal:** Phone call leads  
